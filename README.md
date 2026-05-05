@@ -1,42 +1,82 @@
-<h1 align="center">Arya Shevale</h1>
-
-<h2 align="center"><code>arya$</code></h2>
-
----
-
-## Key Achievements and Experience
-
-* **Seismic Digital Twin** *(January 2026 – February 2026)*
-  *End-to-End Machine Learning Pipeline for Mineral Detection*
-  * Engineered synthetic data generation and trained CNNs.
-  * Integrated pipeline with Unity for visualization.
-
-* **Markerless Kinematics** *(May 2026)*
-  *Computer Vision Application*
-  * Developed a system utilizing MediaPipe for gait classification.
-
-* **Software Engineer Intern** *(May 2023 – August 2023)*
-  * Software development internship at an electronics company.
-
-* **Management Team, Rotaract Club**
-  * Active member of the management team at NIT Rourkela.
-
-* **Performer, Open Mic Club**
-  * Stand-up comedy and public speaking performances.
-
-## Competitive Programming
-
-* Active participant on problem-solving platforms (Codeforces, LeetCode).
-* Strong foundation in data structures and algorithms using C++.
+### Navigate using the commands below:
+* `whoami` → About Me
+* `cat skills` → Technical Skills
+* `./experience` → Projects & Competitive Programming
+* `contact` → How to Reach Me
 
 <br>
 
-<h2 align="center">📊 GitHub Statistics & Analytics</h2>
+### 💻 Interactive Terminal Commands
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+#### `whoami`
+```python
+# 👤 About Me - Developer Profile
+class Developer:
+    def __init__(self):
+        self.name = "Arya Shevale"
+        self.role = "🤖 ML Engineer & 🏆 CP Enthusiast"
+        self.education = "NIT Rourkela (B.Tech, Mechanical Engineering)"
+        self.location = "📍 Thane, Maharashtra, India"
+        self.status = "✅ Building scalable ML pipelines and solving algorithmic challenges"
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=react&hide_border=false" />
-</p>
+    def introduce(self):
+        return f"Hi! I'm {self.name} 👋"
+
+me = Developer()
+print(me.introduce())
+
+// 💻 Technical Skills Dashboard
+import java.util.*;
+
+public class SkillMatrix {
+    public static void main(String[] args) {
+        // Programming Languages
+        Map<String, String> programming = new HashMap<>();
+        programming.put("C++", "████████████████████░ 95%");
+        programming.put("Python", "████████████████████░ 95%");
+        
+        // Technologies & Domains
+        Map<String, String> technologies = new HashMap<>();
+        technologies.put("Machine Learning & MLOps", "████████████████████░ 90%");
+        technologies.put("Computer Vision & LLMs", "██████████████████░░░ 85%");
+        technologies.put("PyTorch & TensorFlow", "██████████████████░░░ 85%");
+    }
+}
+
+// 🏆 Experience, Competitive Programming, & Extracurriculars
+#include <iostream>
+
+int main() {
+    std::cout << "💼 EXPERIENCE & PROJECTS:\n";
+    std::cout << "=================================\n";
+    std::cout << "-> Seismic Digital Twin (End-to-End ML Pipeline & CNNs)\n";
+    std::cout << "-> Markerless Kinematics (MediaPipe & CV for gait classification)\n";
+    std::cout << "-> Software Engineer Intern (May 2023 - Aug 2023)\n\n";
+
+    std::cout << "🏆 COMPETITIVE PROGRAMMING STATS:\n";
+    std::cout << "=================================\n";
+    std::cout << "🤖 Platforms: Codeforces & LeetCode\n";
+    std::cout << "🤖 Primary Language: C++\n\n";
+
+    std::cout << "🎪 BEYOND THE SCREEN:\n";
+    std::cout << "=================================\n";
+    std::cout << "-> Management Team, Rotaract Club\n";
+    std::cout << "-> Performer, Open Mic Club\n";
+
+    return 0;
+}
+
+{
+  "contact_info": {
+    "location": "Thane, Maharashtra, India",
+    "github": "[github.com/YourUsername](https://github.com/YourUsername)"
+  },
+  "availability": {
+    "status": "🟢 Online & Available",
+    "interested_in": [
+      "🤝 ML & Computer Vision collaborations",
+      "🏆 CP discussions",
+      "🚀 Cool open-source projects"
+    ]
+  }
+}
