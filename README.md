@@ -69,7 +69,7 @@ int main() {
 {
   "contact_info": {
     "location": "Thane, Maharashtra, India",
-    "github": "[github.com/YourUsername](https://github.com/YourUsername)"
+    "github": "[github.com/aryashevale](https://github.com/aryashevale)"
   },
   "availability": {
     "status": "🟢 Online & Available",
