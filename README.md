@@ -118,18 +118,7 @@ me.say_hi()
 </tr>
 </table>
 
-### 🏢 Work Experience
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  💻  Software Engineer Intern                            ║
-║  📅  May 2023 – August 2023                              ║
-║  🔧  Gained hands-on industry experience in software     ║
-║      development and engineering workflows               ║
-╚══════════════════════════════════════════════════════════╝
-```
-
----
 
 ### 🏆 Competitive Programming
 
